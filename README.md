@@ -1,1 +1,1 @@
-# Producer, Consumer programs using RabbitMQ and Kafka
+# Producer, Consumer programs using RabbitMQ
