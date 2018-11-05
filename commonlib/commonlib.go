@@ -1,3 +1,5 @@
+
+//commonlib will contain list of functions which can used by producer/consumer across various message brokers
 package commonlib
 import (
   "log"
